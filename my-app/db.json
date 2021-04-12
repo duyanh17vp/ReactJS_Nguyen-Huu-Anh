@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "productName": "Name1",
+      "productSupplier": "supplier 1",
+      "productPrice": "1000",
+      "productDescription": "des",
+      "id": 1
+    },
+    {
+      "productName": "Name2",
+      "productSupplier": "supplier 2",
+      "productPrice": "1000",
+      "productDescription": "des",
+      "id": 2
+    },
+    {
+      "productName": "Name3",
+      "productSupplier": "supplier 3",
+      "productPrice": "1000",
+      "productDescription": "des",
+      "id": 3
+    },
+    {
+      "productName": "Name4",
+      "productSupplier": "supplier 4",
+      "productPrice": "3000",
+      "productDescription": "des",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

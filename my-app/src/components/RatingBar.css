@@ -1,0 +1,11 @@
+.RatingBar{
+    background-color: #f7f5f2;
+    width: 50%;
+    padding: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 0.5em;
+    border-style: ridge;
+    margin: 1em;
+    font-family: arial;
+    border-radius: 0.2em;
+}
